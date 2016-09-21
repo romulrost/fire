@@ -137,7 +137,7 @@ aside .menu {
     border-bottom: 1px solid #e7e7e7;
     padding: 12px 0 12px 31px;
     list-style-position:inside;
-    background: url('img/listStyle.png') no-repeat 12px center;
+    background: url('../img/listStyleGrey.png') no-repeat 12px center;
 }
 .sidebar-menu-item:last-child {
     border-bottom: none;
